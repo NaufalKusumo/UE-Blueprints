@@ -1,1 +1,1 @@
-
+![plot](./BadBot/ActorArray.png)
